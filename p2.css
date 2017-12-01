@@ -1,0 +1,10 @@
+form{
+	font-size: 13;
+	font-family: Tahoma
+}
+input.clr, textarea{
+	border: 2px solid red;
+}
+input.clr2, textarea{
+	background-color: green;
+}

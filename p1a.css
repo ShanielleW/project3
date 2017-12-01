@@ -1,0 +1,55 @@
+charset "utf-8";
+body{
+	font-size:13px;
+	font: Tahoma;
+	font-family:Tahoma;
+	width: 50%
+	border-collapse: collapse;
+	color:black;
+	}
+
+.header-row{
+	background-color:#687291;
+	color:white;
+	font-weight:bold;}
+
+.item1{
+	background-color:#eeeff2;
+}
+
+.item2{
+	background-color:#dfe1e7;}
+
+.total_row{
+	font-weight:bold;
+	display:none;}
+
+.item{
+	text-align:left;
+	}
+
+.man{
+	text-align:left;
+	}
+
+.size{
+	text-align:left;
+	}
+
+.unit{
+	text-align:center;
+	}
+
+.quan{
+	text-align:center;
+	}
+
+.total{
+	display: none;
+	}
+
+.top-border{
+	border-top:1px solid white;
+	padding-right:10px;
+	padding-left:10px
+}
